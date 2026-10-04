@@ -1,5 +1,5 @@
 
-# 🛡️ Upi_Fraud_Detection_System
+# 🛡️ Upi_Fraud_Shield_ML_
 ### Intelligent UPI Fraud Detection System Using Machine Learning
 
 UPI Fraud Shield ML is an end-to-end Machine Learning-powered web application designed to identify potentially fraudulent UPI transactions using behavioral, transactional, authentication, and account-level features.
